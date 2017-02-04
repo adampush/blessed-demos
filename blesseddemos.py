@@ -135,4 +135,4 @@ def print_line_numbers():
         while repr(inp) not in ("'q'", "'Q'"):
             inp = term.inkey()
         print('Done!')
-    
+
